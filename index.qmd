@@ -1,0 +1,12 @@
+---
+title: "Still contemplating my pithy data catchphrase."
+about:
+  image: avatar.jpg
+  template: jolla
+  links:
+  - icon: github
+    text: Github
+    href: https://github.com/mclaire19
+---
+
+While I get that figured out, read [about me](about.qmd) or check out some of my [teaching, writing, and research products](portfolio.qmd).

@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Still contemplating my pithy data catchphrase.",
+    "section": "",
+    "text": "While I get that figured out, read about me or check out some of my teaching, writing, and research products."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! My name is Maddie Pickens. I’m a senior data scientist at the Urban Institute, where I lead and contribute to projects that use data science and statistical methodology to enhance privacy in publicly released data. I mostly work with R and Quarto these days, but occasionally use Python and Tableau.\nI find all forms of communication fascinating and important, and I believe very strongly that advanced data insights mean nothing if they can’t be conveyed to the audiences who matter. I was very excited to put this philosophy into action when I taught Data Visualization for Data Science to graduate students in the M.S. Data Science for Public Policy program at the Georgetown McCourt School of Public Policy. (That’s quite a mouthful, and coincidentally, also the same graduate degree that I received, so the opportunity was doubly meaningful as a real full-circle moment). I’m looking forward to exploring the intersection of education, data communication, and the open-source data science community even more in the future.\nMy hobbies have changed a lot over the years - I find a lot of things fun and interesting, and I consider that a feature, not a bug. One thing that has stayed consistent is that I love reading anything and everything, from fantasy novels to autobiographies to, yes, technical discussions of data analysis software and code. I’ve recently been dabbling in very bad watercolor and very beginner-level yoga. I own way too many mugs, but am always ready to buy one more."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Someday, I’d love to run a proper blog and put as much energy into writing up my work as I did into creating it… today is not that day. In the interest of not letting perfect be the enemy of the good, here’s a quick and dirty collection of teaching, writing, and other projects I’ve created over the years, loosely categorized."
+  },
+  {
+    "objectID": "portfolio.html#teaching---data-science-and-analytics",
+    "href": "portfolio.html#teaching---data-science-and-analytics",
+    "title": "Portfolio",
+    "section": "Teaching - Data Science and Analytics",
+    "text": "Teaching - Data Science and Analytics\nBeginning in Fall 2019, I have been a TA for ten graduate-level courses covering topics in data science, statistics, and data visualization at the McCourt School of Public Policy. This means in practice that I spent weekly 1-1 time with students, coaching them on implementing code in R and Python to apply methods discussed in class… and coaching them on debugging that code too.\nI was incredibly excited when this culminated in me being asked to teach Data Visualization for Data Science in Fall 2023 as an adjunct professor for my “alma mater” graduate program, a Master’s degree in Data Science for Public Policy. I had full control over the curriculum and course design (see syllabus here), and ended up emphasizing primarily R and other open source tools, with a touch of Tableau as a point of comparison. The students were fantastic and gave really positive feedback, and I’m hoping to teach again in Fall 2024."
+  },
+  {
+    "objectID": "portfolio.html#teaching---data-privacy",
+    "href": "portfolio.html#teaching---data-privacy",
+    "title": "Portfolio",
+    "section": "Teaching - Data Privacy",
+    "text": "Teaching - Data Privacy\nI teach data privacy methodology and implementation of data privacy methods to a variety of federal, state, and local government stakeholders. Here is an example of publicly available materials for a training given to the Internal Revenue Service (IRS).\nI’ve also given trainings on data privacy at conferences, like the Women in Statistics and Data Science conference through the American Statistical Association. I will give another training for the American Association for Public Opinion Research (AAPOR) in March 2024."
+  },
+  {
+    "objectID": "portfolio.html#writing---data-science-and-analytics",
+    "href": "portfolio.html#writing---data-science-and-analytics",
+    "title": "Portfolio",
+    "section": "Writing - Data Science and Analytics",
+    "text": "Writing - Data Science and Analytics\nI wrote a blog post in graduate school about creating custom themes in ggplot. I’ve now heard from at least four people in my life who needed to learn this and came across the blog post, which I’m sure speaks mostly to how fantastic it is and has nothing to do with Google’s SEO algorithms prioritizing content from people you know…\nI also made key contributions to our Reproducibility at Urban webpage, with tutorials about usage of Git and Github, and to documentation for R packages written by our team for implementing privacy methodology."
+  },
+  {
+    "objectID": "portfolio.html#writing-and-projects---data-privacy",
+    "href": "portfolio.html#writing-and-projects---data-privacy",
+    "title": "Portfolio",
+    "section": "Writing and Projects - Data Privacy",
+    "text": "Writing and Projects - Data Privacy\nSince I work for a research institution, a lot of our work is accompanied by writing! Here are some things that I’ve authored. Many of them also discuss projects I led or was a part of, like the Racial Equity Analytics Lab Incubator.\n\nIntroductory educational materials\nThese are a good place to start if you’ve been reading this whole page wondering exactly what I’m talking about when I say “data privacy”:\n\nData Privacy Educational Tool is a Tableau tool targeting community-based organizations, and introduces many key privacy concepts, basic methods, and equity tradeoffs in the data privacy space.\nUnderstanding Synthetic Data is a fact sheet about synthetic data, a specific data privacy method applied frequently by my team.\n\n\n\nBlog posts\n\nIs Privacy at Odds with Racial Equity? Visualizing Implications for Communities of Color in Public Data Releases discusses an educational tool that I built in Tableau to teach community-based organizations about equity tradeoffs in data privacy (also linked above under introductory materials).\nConsiderations for Consistent Terminology When Teaching Data Privacy Methods discusses… exactly what the title says. I wanted to call it “A Sanitizer by Any Other Name,” but was outvoted by our comms folks.\n\n\n\nProject-related writing\nMany of these also go into more detail about the projects themselves, in addition to targeting stakeholders at different levels of technical prowess.\n\nSynthetic Data User Guide was a guide I authored to accompany a synthetic dataset product we created on behalf of Allegheny County’s Department of Human Services, describing the motivation, strengths, and limitations of the product.\nGenerating a Fully Synthetic Human Services Dataset is a technical brief discussing the detailed methodology for creating this dataset, aimed at more-technical stakeholders."
+  },
+  {
+    "objectID": "portfolio.html#projects---data-science",
+    "href": "portfolio.html#projects---data-science",
+    "title": "Portfolio",
+    "section": "Projects - Data Science",
+    "text": "Projects - Data Science\nMy most recent data science projects are actually listed under the “Writing and Projects - Data Privacy” section (sneaky double dipping!) - the methods my team and I apply are generally advanced statistical modeling and/or machine learning methods, so they definitely fall under the umbrella of data science. (When we’re done with those methods, we also have to evaluate and visualize the impact, another key part of the data science pipeline).\nA few other relevant projects…\nI used to work as a data analyst at the Universal Service Administrative Company, where I created executive-level reporting for the four USAC programs using primarily Tableau. Because these were mostly internal reports, I can’t share them here, so you’ll have to take my word for it. I also led the public reporting for the Emergency Broadband Benefit Program a $3.2 billion congressional appropriation, which has since been replaced by the Affordable Connectivity Program.\nIn my role as a Graduate Fellow for the Data Science for Public Good program (a program through the Biocomplexity Institute at the University of Virginia), I managed four interns across two summer data science projects to assist public sector clients with relevant analyses. We eventually published web products for both projects:\n\nEvaluating Residential Property Data Quality for the USDA Economic Research Service\nModeling Career Pathways of Veterans in the DC Metro Area for the Army Research Institute\n\nAlso, when I was still in grad school, our cohort partnered with the Washington DC Department of Consumer and Regulatory Affairs (DCRA), now the Department of Buildings. We used supervised and unsupervised machine learning methods to investigate potential improvements and risks to their housing inspection processes. The Washington Post wrote an article about it, and I was quoted in another article by a local news station."
+  }
+]

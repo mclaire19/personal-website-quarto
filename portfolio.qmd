@@ -1,0 +1,67 @@
+---
+title: "Portfolio"
+toc: true
+---
+
+Someday, I'd love to run a proper blog and put as much energy into writing up my work as I did into creating it... today is not that day. In the interest of not letting perfect be the enemy of the good, here's a quick and dirty collection of teaching, writing, and other projects I've created over the years, loosely categorized. 
+
+## Teaching - Data Science and Analytics
+
+Beginning in Fall 2019, I have been a TA for ten graduate-level courses covering topics in data science, statistics, and data visualization at the [McCourt School of Public Policy](https://mccourt.georgetown.edu/). This means in practice that I spent weekly 1-1 time with students, coaching them on implementing code in R and Python to apply methods discussed in class... and coaching them on debugging that code too.
+
+I was incredibly excited when this culminated in me being asked to teach Data Visualization for Data Science in Fall 2023 as an adjunct professor for my "alma mater" [graduate program](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), a Master's degree in Data Science for Public Policy. I had full control over the curriculum and course design ([see syllabus here](https://docs.google.com/document/d/1TtTFJwSOVLqHRb57cDSC-gboLrvn326TwOxvWbfWGd0/edit?usp=sharing)), and ended up emphasizing primarily R and other open source tools, with a touch of Tableau as a point of comparison. The students were fantastic and gave really positive feedback, and I'm hoping to teach again in Fall 2024.
+
+## Teaching - Data Privacy
+
+I teach data privacy methodology and implementation of data privacy methods to a variety of federal, state, and local government stakeholders. Here is an example of [publicly available materials for a training given to the Internal Revenue Service (IRS)](https://ui-research.github.io/irs-data-privacy-trainings-2023/).
+
+I've also given trainings on data privacy at conferences, like the [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2022/courses.cfm) conference through the American Statistical Association. I will give another training for the American Association for Public Opinion Research (AAPOR) in March 2024.
+
+## Writing - Data Science and Analytics
+
+I wrote a blog post in graduate school about [creating custom themes in ggplot](https://rpubs.com/mclaire19/ggplot2-custom-themes). I've now heard from at least four people in my life who needed to learn this and came across the blog post, which I'm sure speaks mostly to how fantastic it is and has nothing to do with Google's SEO algorithms prioritizing content from people you know...
+
+I also made key contributions to our [Reproducibility at Urban](https://ui-research.github.io/reproducibility-at-urban/) webpage, with tutorials about usage of Git and Github, and to [documentation for R packages](https://ui-research.github.io/tidysynthesis-documentation/) written by our team for implementing privacy methodology. 
+
+## Writing and Projects - Data Privacy 
+
+Since I work for a research institution, a lot of our work is accompanied by writing! Here are some things that I've authored. Many of them also discuss projects I led or was a part of, like the [Racial Equity Analytics Lab Incubator](https://www.urban.org/projects/racial-equity-analytics-lab-incubator). 
+
+### Introductory educational materials
+
+These are a good place to start if you've been reading this whole page wondering exactly what I'm talking about when I say "data privacy":
+
+- [Data Privacy Educational Tool](https://public.tableau.com/app/profile/maddie.pickens/viz/DataPrivacyandEquityEducationalToolPrototype/1-WhatisDP) is a Tableau tool targeting community-based organizations, and introduces many key privacy concepts, basic methods, and equity tradeoffs in the data privacy space.
+
+- [Understanding Synthetic Data](https://www.urban.org/research/publication/understanding-synthetic-data) is a fact sheet about synthetic data, a specific data privacy method applied frequently by my team.
+
+### Blog posts
+
+- [Is Privacy at Odds with Racial Equity? Visualizing Implications for Communities of Color in Public Data Releases](https://medium.com/urban-institute/is-privacy-at-odds-with-racial-equity-39c9428efe6f) discusses an [educational tool that I built in Tableau to teach community-based organizations about equity tradeoffs in data privacy](https://public.tableau.com/app/profile/maddie.pickens/viz/DataPrivacyandEquityEducationalToolPrototype/1-WhatisDP) (also linked above under introductory materials).
+
+- [Considerations for Consistent Terminology When Teaching Data Privacy Methods](https://urban-institute.medium.com/considerations-for-consistent-terminology-when-teaching-data-privacy-methods-81af8cd9c1b5) discusses... exactly what the title says. I wanted to call it "A Sanitizer by Any Other Name," but was outvoted by our comms folks.
+
+### Project-related writing 
+
+Many of these also go into more detail about the projects themselves, in addition to targeting stakeholders at different levels of technical prowess.
+
+- [Synthetic Data User Guide]() was a guide I authored to accompany a synthetic dataset product we created on behalf of Allegheny County's Department of Human Services, describing the motivation, strengths, and limitations of the product.
+
+- [Generating a Fully Synthetic Human Services Dataset]() is a technical brief discussing the detailed methodology for creating this dataset, aimed at more-technical stakeholders.
+
+## Projects - Data Science
+
+My most recent data science projects are actually listed under the "Writing and Projects - Data Privacy" section (sneaky double dipping!) - the methods my team and I apply are generally advanced statistical modeling and/or machine learning methods, so they definitely fall under the umbrella of data science. (When we're done with those methods, we also have to evaluate and visualize the impact, another key part of the data science pipeline).
+
+A few other relevant projects...
+
+I used to work as a data analyst at the [Universal Service Administrative Company](https://www.usac.org/), where I created executive-level reporting for the four USAC programs using primarily Tableau. Because these were mostly internal reports, I can't share them here, so you'll have to take my word for it. I also led the [public reporting for the Emergency Broadband Benefit Program](https://www.usac.org/about/emergency-broadband-benefit-program/emergency-broadband-benefit-program-enrollments-and-claims-tracker/) a $3.2 billion congressional appropriation, which has since been replaced by the Affordable Connectivity Program.
+
+In my role as a Graduate Fellow for the Data Science for Public Good program (a program through the Biocomplexity Institute at the University of Virginia), I managed four interns across two summer data science projects to assist public sector clients with relevant analyses. We eventually published web products for both projects:
+
+- [Evaluating Residential Property Data Quality](https://madeline-pickens.shinyapps.io/ERS-dataquality/) for the USDA Economic Research Service
+
+- [Modeling Career Pathways of Veterans in the DC Metro Area](https://dspg-young-scholars-program.github.io/dspg20career/?type=dspg) for the Army Research Institute
+
+Also, when I was still in grad school, our cohort partnered with the Washington DC [Department of Consumer and Regulatory Affairs (DCRA)](https://dcratransition.dc.gov/), now the Department of Buildings. 
+We used supervised and unsupervised machine learning methods to investigate potential improvements and risks to their housing inspection processes. [The Washington Post wrote an article about it](https://www.washingtonpost.com/local/dc-politics/georgetown-university-works-with-dc-agency-to-improve-rental-inspection-policies/2020/01/17/7756a568-3945-11ea-bb7b-265f4554af6d_story.html), and [I was quoted in another article by a local news station](https://wamu.org/story/20/01/22/how-georgetown-grad-students-are-helping-d-c-conduct-better-housing-inspections/).

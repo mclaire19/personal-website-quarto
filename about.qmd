@@ -2,8 +2,12 @@
 title: "About"
 ---
 
+### Work
+
 Hello! My name is Maddie Pickens. I'm a senior data scientist at the [Urban Institute](https://www.urban.org/author/madeline-pickens), where I lead and contribute to [projects that use data science and statistical methodology](https://www.urban.org/research-methods/safely-expanding-data-access) to enhance privacy in publicly released data. I mostly work with R and Quarto these days, but occasionally use Python and Tableau.
 
 I find all forms of communication fascinating and important, and I believe very strongly that advanced data insights mean nothing if they can’t be conveyed to the audiences who matter. I was very excited to put this philosophy into action when I taught Data Visualization for Data Science to graduate students in the [M.S. Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/) program at the Georgetown McCourt School of Public Policy. (That's quite a mouthful, and coincidentally, also the same graduate degree that I received, so the opportunity was doubly meaningful as a real full-circle moment). I'm looking forward to exploring the intersection of education, data communication, and the open-source data science community even more in the future.
+
+### Fun
 
 My hobbies have changed a lot over the years - I find a lot of things fun and interesting, and I consider that a feature, not a bug. One thing that has stayed consistent is that I love reading anything and everything, from fantasy novels to autobiographies to, yes, technical discussions of data analysis software and code. I’ve recently been dabbling in very bad watercolor and very beginner-level yoga. I own way too many mugs, but am always ready to buy one more.

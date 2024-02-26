@@ -1,15 +1,16 @@
 ---
 title: "Portfolio"
 toc: true
+toc-expand: false
 ---
 
-Someday, I'd love to run a proper blog and put as much energy into writing up my work as I did into creating it... today is not that day. In the interest of not letting perfect be the enemy of the good, here's a quick and dirty collection of teaching, writing, and other projects I've created over the years, loosely categorized. 
+Someday, I'd love to run a proper blog and put as much energy into writing up my work as I did into creating it. In the interest of not letting perfect be the enemy of the good, here's a quick and dirty collection of teaching, writing, and other projects I've created over the years, loosely categorized. 
 
 ## Teaching - Data Science and Analytics
 
-Beginning in Fall 2019, I have been a TA for ten graduate-level courses covering topics in data science, statistics, and data visualization at the [McCourt School of Public Policy](https://mccourt.georgetown.edu/). This means in practice that I spent weekly 1-1 time with students, coaching them on implementing code in R and Python to apply methods discussed in class... and coaching them on debugging that code too.
+Beginning in Fall 2019, I have been a TA for ten graduate-level courses covering topics in data science, statistics, and data visualization at the Georgetown University [McCourt School of Public Policy](https://mccourt.georgetown.edu/). This means in practice that I spent weekly 1-1 time with students, coaching them on implementing code in R and Python to apply methods discussed in class... and coaching them on debugging that code too.
 
-I was incredibly excited when this culminated in me being asked to teach Data Visualization for Data Science in Fall 2023 as an adjunct professor for my "alma mater" [graduate program](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), a Master's degree in Data Science for Public Policy. I had full control over the curriculum and course design ([see syllabus here](https://docs.google.com/document/d/1TtTFJwSOVLqHRb57cDSC-gboLrvn326TwOxvWbfWGd0/edit?usp=sharing)), and ended up emphasizing primarily R and other open source tools, with a touch of Tableau as a point of comparison. The students were fantastic and gave really positive feedback, and I'm hoping to teach again in Fall 2024.
+I was incredibly excited when this culminated in me being asked to teach Data Visualization for Data Science in Fall 2023 as an adjunct professor for my former [graduate program](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), a Master's degree in Data Science for Public Policy. I had full control over the curriculum and course design ([see syllabus here](https://docs.google.com/document/d/1TtTFJwSOVLqHRb57cDSC-gboLrvn326TwOxvWbfWGd0/edit?usp=sharing)), and ended up emphasizing primarily R and other open source tools, with a touch of Tableau as a point of comparison. The students were fantastic and gave really positive feedback, and I'm hoping to teach again in Fall 2024.
 
 ## Teaching - Data Privacy
 

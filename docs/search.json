@@ -2,23 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Still contemplating my pithy data catchphrase.",
+    "title": "Current data scientist and educator, aspiring morning person",
     "section": "",
-    "text": "While I get that figured out, read about me or check out some of my teaching, writing, and research products."
+    "text": "Read more about me or check out some of my teaching, writing, and research products."
   },
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Someday, I’d love to run a proper blog and put as much energy into writing up my work as I did into creating it… today is not that day. In the interest of not letting perfect be the enemy of the good, here’s a quick and dirty collection of teaching, writing, and other projects I’ve created over the years, loosely categorized."
+    "text": "Someday, I’d love to run a proper blog and put as much energy into writing up my work as I did into creating it. In the interest of not letting perfect be the enemy of the good, here’s a quick and dirty collection of teaching, writing, and other projects I’ve created over the years, loosely categorized."
   },
   {
     "objectID": "portfolio.html#teaching---data-science-and-analytics",
     "href": "portfolio.html#teaching---data-science-and-analytics",
     "title": "Portfolio",
     "section": "Teaching - Data Science and Analytics",
-    "text": "Teaching - Data Science and Analytics\nBeginning in Fall 2019, I have been a TA for ten graduate-level courses covering topics in data science, statistics, and data visualization at the McCourt School of Public Policy. This means in practice that I spent weekly 1-1 time with students, coaching them on implementing code in R and Python to apply methods discussed in class… and coaching them on debugging that code too.\nI was incredibly excited when this culminated in me being asked to teach Data Visualization for Data Science in Fall 2023 as an adjunct professor for my “alma mater” graduate program, a Master’s degree in Data Science for Public Policy. I had full control over the curriculum and course design (see syllabus here), and ended up emphasizing primarily R and other open source tools, with a touch of Tableau as a point of comparison. The students were fantastic and gave really positive feedback, and I’m hoping to teach again in Fall 2024."
+    "text": "Teaching - Data Science and Analytics\nBeginning in Fall 2019, I have been a TA for ten graduate-level courses covering topics in data science, statistics, and data visualization at the Georgetown University McCourt School of Public Policy. This means in practice that I spent weekly 1-1 time with students, coaching them on implementing code in R and Python to apply methods discussed in class… and coaching them on debugging that code too.\nI was incredibly excited when this culminated in me being asked to teach Data Visualization for Data Science in Fall 2023 as an adjunct professor for my former graduate program, a Master’s degree in Data Science for Public Policy. I had full control over the curriculum and course design (see syllabus here), and ended up emphasizing primarily R and other open source tools, with a touch of Tableau as a point of comparison. The students were fantastic and gave really positive feedback, and I’m hoping to teach again in Fall 2024."
   },
   {
     "objectID": "portfolio.html#teaching---data-privacy",
@@ -53,6 +53,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hello! My name is Maddie Pickens. I’m a senior data scientist at the Urban Institute, where I lead and contribute to projects that use data science and statistical methodology to enhance privacy in publicly released data. I mostly work with R and Quarto these days, but occasionally use Python and Tableau.\nI find all forms of communication fascinating and important, and I believe very strongly that advanced data insights mean nothing if they can’t be conveyed to the audiences who matter. I was very excited to put this philosophy into action when I taught Data Visualization for Data Science to graduate students in the M.S. Data Science for Public Policy program at the Georgetown McCourt School of Public Policy. (That’s quite a mouthful, and coincidentally, also the same graduate degree that I received, so the opportunity was doubly meaningful as a real full-circle moment). I’m looking forward to exploring the intersection of education, data communication, and the open-source data science community even more in the future.\nMy hobbies have changed a lot over the years - I find a lot of things fun and interesting, and I consider that a feature, not a bug. One thing that has stayed consistent is that I love reading anything and everything, from fantasy novels to autobiographies to, yes, technical discussions of data analysis software and code. I’ve recently been dabbling in very bad watercolor and very beginner-level yoga. I own way too many mugs, but am always ready to buy one more."
+    "text": "Work\nHello! My name is Maddie Pickens. I’m a senior data scientist at the Urban Institute, where I lead and contribute to projects that use data science and statistical methodology to enhance privacy in publicly released data. I mostly work with R and Quarto these days, but occasionally use Python and Tableau.\nI find all forms of communication fascinating and important, and I believe very strongly that advanced data insights mean nothing if they can’t be conveyed to the audiences who matter. I was very excited to put this philosophy into action when I taught Data Visualization for Data Science to graduate students in the M.S. Data Science for Public Policy program at the Georgetown McCourt School of Public Policy. (That’s quite a mouthful, and coincidentally, also the same graduate degree that I received, so the opportunity was doubly meaningful as a real full-circle moment). I’m looking forward to exploring the intersection of education, data communication, and the open-source data science community even more in the future.\n\n\nFun\nMy hobbies have changed a lot over the years - I find a lot of things fun and interesting, and I consider that a feature, not a bug. One thing that has stayed consistent is that I love reading anything and everything, from fantasy novels to autobiographies to, yes, technical discussions of data analysis software and code. I’ve recently been dabbling in very bad watercolor and very beginner-level yoga. I own way too many mugs, but am always ready to buy one more."
+  },
+  {
+    "objectID": "about.html#work",
+    "href": "about.html#work",
+    "title": "About",
+    "section": "",
+    "text": "Hello! My name is Maddie Pickens. I’m a senior data scientist at the Urban Institute, where I lead and contribute to projects that use data science and statistical methodology to enhance privacy in publicly released data. I mostly work with R and Quarto these days, but occasionally use Python and Tableau.\nI find all forms of communication fascinating and important, and I believe very strongly that advanced data insights mean nothing if they can’t be conveyed to the audiences who matter. I was very excited to put this philosophy into action when I taught Data Visualization for Data Science to graduate students in the M.S. Data Science for Public Policy program at the Georgetown McCourt School of Public Policy. (That’s quite a mouthful, and coincidentally, also the same graduate degree that I received, so the opportunity was doubly meaningful as a real full-circle moment). I’m looking forward to exploring the intersection of education, data communication, and the open-source data science community even more in the future."
+  },
+  {
+    "objectID": "about.html#fun",
+    "href": "about.html#fun",
+    "title": "About",
+    "section": "Fun",
+    "text": "Fun\nMy hobbies have changed a lot over the years - I find a lot of things fun and interesting, and I consider that a feature, not a bug. One thing that has stayed consistent is that I love reading anything and everything, from fantasy novels to autobiographies to, yes, technical discussions of data analysis software and code. I’ve recently been dabbling in very bad watercolor and very beginner-level yoga. I own way too many mugs, but am always ready to buy one more."
   }
 ]

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,7 +45,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -54,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -68,9 +75,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Maddie Pickens</span>
     </a>
@@ -82,28 +89,28 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./portfolio.html" rel="" target="" aria-current="page">
- <span class="menu-text">Portfolio</span></a>
+    <a class="nav-link active" href="./portfolio.html" aria-current="page"> 
+<span class="menu-text">Portfolio</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/mclaire19" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/mclaire19"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -125,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#blog-posts" id="toc-blog-posts" class="nav-link" data-scroll-target="#blog-posts">Blog posts</a></li>
   <li><a href="#project-related-writing" id="toc-project-related-writing" class="nav-link" data-scroll-target="#project-related-writing">Project-related writing</a></li>
   </ul></li>
-  <li><a href="#projects---data-science" id="toc-projects---data-science" class="nav-link" data-scroll-target="#projects---data-science">Projects - Data Science</a></li>
+  <li><a href="#projects---data-science-and-analytics" id="toc-projects---data-science-and-analytics" class="nav-link" data-scroll-target="#projects---data-science-and-analytics">Projects - Data Science and Analytics</a></li>
   </ul>
 </nav>
     </div>
@@ -147,27 +154,30 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <p>Someday, I’d love to run a proper blog and put as much energy into writing up my work as I did into creating it. In the interest of not letting perfect be the enemy of the good, here’s a quick and dirty collection of teaching, writing, and other projects I’ve created over the years, loosely categorized.</p>
 <section id="teaching---data-science-and-analytics" class="level2">
 <h2 class="anchored" data-anchor-id="teaching---data-science-and-analytics">Teaching - Data Science and Analytics</h2>
 <p>Beginning in Fall 2019, I have been a TA for ten graduate-level courses covering topics in data science, statistics, and data visualization at the Georgetown University <a href="https://mccourt.georgetown.edu/">McCourt School of Public Policy</a>. This means in practice that I spent weekly 1-1 time with students, coaching them on implementing code in R and Python to apply methods discussed in class… and coaching them on debugging that code too.</p>
-<p>I was incredibly excited when this culminated in me being asked to teach Data Visualization for Data Science in Fall 2023 as an adjunct professor for my former <a href="https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/">graduate program</a>, a Master’s degree in Data Science for Public Policy. I had full control over the curriculum and course design (<a href="https://docs.google.com/document/d/1TtTFJwSOVLqHRb57cDSC-gboLrvn326TwOxvWbfWGd0/edit?usp=sharing">see syllabus here</a>), and ended up emphasizing primarily R and other open source tools, with a touch of Tableau as a point of comparison. The students were fantastic and gave really positive feedback, and I’m hoping to teach again in Fall 2024.</p>
+<p>I was incredibly excited when this culminated in me being asked to teach Data Visualization for Data Science in Fall 2023 as an adjunct professor for my former <a href="https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/">graduate program</a>, a Master’s degree in Data Science for Public Policy. I had full control over the curriculum and course design (<a href="https://docs.google.com/document/d/1TtTFJwSOVLqHRb57cDSC-gboLrvn326TwOxvWbfWGd0/edit?usp=sharing">see syllabus here</a>), and ended up emphasizing primarily R and other open source tools, with a touch of Tableau as a point of comparison.</p>
+<p>This led to a fantastic opportunity to teach beginning R and data visualization students through the McCourt Data Visualization elective in Fall 2024, also targeted at Master’s students and also with full control over the course design (see <a href="https://docs.google.com/document/d/1tx9mqPfnGnXefrj5IRZ3ulYafMuXKoMR9-7bDhchyk4/edit?usp=sharing">syllabus here</a>). I love working with students and hope to teach more in the future!</p>
 </section>
 <section id="teaching---data-privacy" class="level2">
 <h2 class="anchored" data-anchor-id="teaching---data-privacy">Teaching - Data Privacy</h2>
-<p>I teach data privacy methodology and implementation of data privacy methods to a variety of federal, state, and local government stakeholders. Here is an example of <a href="https://ui-research.github.io/irs-data-privacy-trainings-2023/">publicly available materials for a training given to the Internal Revenue Service (IRS)</a>.</p>
-<p>I’ve also given trainings on data privacy at conferences, like the <a href="https://ww2.amstat.org/meetings/wsds/2022/courses.cfm">Women in Statistics and Data Science</a> conference through the American Statistical Association. I will give another training for the American Association for Public Opinion Research (AAPOR) in March 2024.</p>
+<p>At the Urban Institute, I taught data privacy methodology and implementation of data privacy methods to a variety of federal, state, and local government stakeholders. Here is an example of <a href="https://ui-research.github.io/irs-data-privacy-trainings-2023/">publicly available materials for a training given to the Internal Revenue Service (IRS)</a>.</p>
+<p>I’ve also given trainings on data privacy at conferences, like the <a href="https://ww2.amstat.org/meetings/wsds/2022/courses.cfm">Women in Statistics and Data Science</a> conference through the American Statistical Association and the American Association for Public Opinion Research (AAPOR).</p>
 </section>
 <section id="writing---data-science-and-analytics" class="level2">
 <h2 class="anchored" data-anchor-id="writing---data-science-and-analytics">Writing - Data Science and Analytics</h2>
-<p>I wrote a blog post in graduate school about <a href="https://rpubs.com/mclaire19/ggplot2-custom-themes">creating custom themes in ggplot</a>. I’ve now heard from at least four people in my life who needed to learn this and came across the blog post, which I’m sure speaks mostly to how fantastic it is and has nothing to do with Google’s SEO algorithms prioritizing content from people you know…</p>
+<p>I wrote a blog post in graduate school about <a href="https://rpubs.com/mclaire19/ggplot2-custom-themes">creating custom themes in ggplot2</a>. I’ve now heard from at least four people in my life who needed to learn this and came across the blog post, which I’m sure speaks mostly to how fantastic it is and has nothing to do with Google’s SEO algorithms prioritizing content from people you know…</p>
 <p>I also made key contributions to our <a href="https://ui-research.github.io/reproducibility-at-urban/">Reproducibility at Urban</a> webpage, with tutorials about usage of Git and Github, and to <a href="https://ui-research.github.io/tidysynthesis-documentation/">documentation for R packages</a> written by our team for implementing privacy methodology.</p>
 </section>
 <section id="writing-and-projects---data-privacy" class="level2">
 <h2 class="anchored" data-anchor-id="writing-and-projects---data-privacy">Writing and Projects - Data Privacy</h2>
-<p>Since I work for a research institution, a lot of our work is accompanied by writing! Here are some things that I’ve authored. Many of them also discuss projects I led or was a part of, like the <a href="https://www.urban.org/projects/racial-equity-analytics-lab-incubator">Racial Equity Analytics Lab Incubator</a>.</p>
+<p>While at the Urban Institute, I led and contributed primarily to projects that used data science and statistical methodology to <a href="https://www.urban.org/expertise/data-governance-and-privacy">enhance privacy in publicly released data</a>. A lot of that work was accompanied by writing! Here are some things that I’ve authored.</p>
 <section id="introductory-educational-materials" class="level3">
 <h3 class="anchored" data-anchor-id="introductory-educational-materials">Introductory educational materials</h3>
 <p>These are a good place to start if you’ve been reading this whole page wondering exactly what I’m talking about when I say “data privacy”:</p>
@@ -187,14 +197,15 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="project-related-writing">Project-related writing</h3>
 <p>Many of these also go into more detail about the projects themselves, in addition to targeting stakeholders at different levels of technical prowess.</p>
 <ul>
-<li><p><a href="">Synthetic Data User Guide</a> was a guide I authored to accompany a synthetic dataset product we created on behalf of Allegheny County’s Department of Human Services, describing the motivation, strengths, and limitations of the product.</p></li>
-<li><p><a href="">Generating a Fully Synthetic Human Services Dataset</a> is a technical brief discussing the detailed methodology for creating this dataset, aimed at more-technical stakeholders.</p></li>
+<li><p><a href="https://www.urban.org/research/publication/synthetic-data-user-guide-and-infographic">Synthetic Data User Guide</a> was a guide I authored to accompany a synthetic dataset product we created on behalf of Allegheny County’s Department of Human Services, describing the motivation, strengths, and limitations of the product.</p></li>
+<li><p><a href="https://www.urban.org/research/publication/generating-fully-synthetic-human-services-dataset">Generating a Fully Synthetic Human Services Dataset</a> is a technical brief discussing the detailed methodology for creating this dataset, aimed at more-technical stakeholders.</p></li>
 </ul>
 </section>
 </section>
-<section id="projects---data-science" class="level2">
-<h2 class="anchored" data-anchor-id="projects---data-science">Projects - Data Science</h2>
-<p>My most recent data science projects are actually listed under the “Writing and Projects - Data Privacy” section (sneaky double dipping!) - the methods my team and I apply are generally advanced statistical modeling and/or machine learning methods, so they definitely fall under the umbrella of data science. (When we’re done with those methods, we also have to evaluate and visualize the impact, another key part of the data science pipeline).</p>
+<section id="projects---data-science-and-analytics" class="level2">
+<h2 class="anchored" data-anchor-id="projects---data-science-and-analytics">Projects - Data Science and Analytics</h2>
+<p>Since my current role is in the federal government, I can’t post any projects online; it would be hard to do anyways, since the nature of this role involves much less open-source software than my role at Urban. I prefer to meet stakeholders where they are at when implementing technical projects, so I’m okay with this, but I’m always looking for opportunities to add automation or documentation to an existing business process.</p>
+<p>Given that, my most recent data science projects are already listed under the “Writing and Projects - Data Privacy” section (sneaky double dipping!) - the methods my team and I applied are generally advanced statistical modeling and/or machine learning methods, so they definitely fall under the umbrella of data science. (When we were done with those methods, we also had to evaluate and visualize the impact, another key part of the data science pipeline).</p>
 <p>A few other relevant projects…</p>
 <p>I used to work as a data analyst at the <a href="https://www.usac.org/">Universal Service Administrative Company</a>, where I created executive-level reporting for the four USAC programs using primarily Tableau. Because these were mostly internal reports, I can’t share them here, so you’ll have to take my word for it. I also led the <a href="https://www.usac.org/about/emergency-broadband-benefit-program/emergency-broadband-benefit-program-enrollments-and-claims-tracker/">public reporting for the Emergency Broadband Benefit Program</a> a $3.2 billion congressional appropriation, which has since been replaced by the Affordable Connectivity Program.</p>
 <p>In my role as a Graduate Fellow for the Data Science for Public Good program (a program through the Biocomplexity Institute at the University of Virginia), I managed four interns across two summer data science projects to assist public sector clients with relevant analyses. We eventually published web products for both projects:</p>
@@ -287,10 +298,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -300,8 +328,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -313,7 +350,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -357,6 +517,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -382,6 +543,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -442,6 +629,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

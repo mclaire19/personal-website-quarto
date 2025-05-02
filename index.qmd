@@ -1,5 +1,5 @@
 ---
-title: "Current: Data Analytics and Education <br> Aspiring: Morning Person"
+title: "Current: Data Analytics and Education <br> <br> Aspiring: Morning Person"
 about:
   image: avatar.jpg
   template: jolla
